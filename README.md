@@ -1,2 +1,2 @@
-# EpxTestContainers
+# XP-TestContainers
 Experimenting with TestContainers
